@@ -1,3 +1,7 @@
+-- Most code by: amah853#1742
+-- For all credits join the Darkscripts Discord: https://discord.gg/xaAeKjkZFb
+
+
 local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local label = Instance.new("TextLabel")
@@ -6,7 +10,7 @@ local closemenu = Instance.new("TextButton")
 local SnowHub = Instance.new("TextButton")
 local BruhHub = Instance.new("TextButton")
 
---Properties:
+
 
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 
